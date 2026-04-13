@@ -1,0 +1,15 @@
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\bin\Debug\net10.0\week-10-ihorkucher25-ux.exe
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\bin\Debug\net10.0\week-10-ihorkucher25-ux.deps.json
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\bin\Debug\net10.0\week-10-ihorkucher25-ux.runtimeconfig.json
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\bin\Debug\net10.0\week-10-ihorkucher25-ux.dll
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\bin\Debug\net10.0\week-10-ihorkucher25-ux.pdb
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\obj\Debug\net10.0\week-10-ihorkucher25-ux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\obj\Debug\net10.0\week-10-ihorkucher25-ux.AssemblyInfoInputs.cache
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\obj\Debug\net10.0\week-10-ihorkucher25-ux.AssemblyInfo.cs
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\obj\Debug\net10.0\week-10-ihorkucher25-ux.csproj.CoreCompileInputs.cache
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\obj\Debug\net10.0\week-10-ihorkucher25-ux.sourcelink.json
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\obj\Debug\net10.0\week-10-ihorkucher25-ux.dll
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\obj\Debug\net10.0\refint\week-10-ihorkucher25-ux.dll
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\obj\Debug\net10.0\week-10-ihorkucher25-ux.pdb
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\obj\Debug\net10.0\week-10-ihorkucher25-ux.genruntimeconfig.cache
+C:\Users\Igorm\Videos\week-10-ihorkucher25-ux\obj\Debug\net10.0\ref\week-10-ihorkucher25-ux.dll

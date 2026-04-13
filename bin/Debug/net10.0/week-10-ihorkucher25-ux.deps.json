@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "week-10-ihorkucher25-ux/1.0.0": {
+        "runtime": {
+          "week-10-ihorkucher25-ux.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "week-10-ihorkucher25-ux/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
